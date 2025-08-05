@@ -33,3 +33,7 @@ When a user double-clicks on a polygon on the map, the following steps are execu
    The entire process runs automatically in the background. From the user's point of view, a simple double-click results in a visually accurate and directionally consistent hatch pattern.
 
 ---
+
+
+https://github.com/user-attachments/assets/ba6728fc-98d7-4871-b19d-a2f5dc480236
+
